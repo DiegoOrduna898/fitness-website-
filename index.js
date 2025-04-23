@@ -38,18 +38,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-    // Import necessary libraries if required
-// Example: import React from "react";
-
-function Index() {
-  return (
-    <div>
-      <h1>Welcome to My Fitness Website</h1>
-      <p>This is your go-to platform for all things fitness!</p>
-      {/* Add additional components or content as needed */}
     </div>
   );
 }
-
-export default Index;
