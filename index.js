@@ -74,7 +74,5 @@ export default function Home() {
       <footer className="bg-black border-t border-gray-700 py-10 text-center">
         <p className="text-gray-400">&copy; {new Date().getFullYear()} FitZone. All rights reserved.</p>
         <p className="text-sm text-gray-500 mt-1">Built by your future 7-figure self 💼</p>
-      </footer>
-    </div>
-  );
-}
+              </div>
+      </section>
