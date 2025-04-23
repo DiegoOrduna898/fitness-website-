@@ -78,4 +78,3 @@ export default function Home() {
     </div>
   );
 }
-updated index with new layout
