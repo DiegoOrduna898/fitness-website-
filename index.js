@@ -39,11 +39,17 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-black border-t border-gray-700 py-10 text-center">
-        <p className="text-gray-400">&copy; {new Date().getFullYear()} FitZone. All rights reserved.</p>
-        <p className="text-sm text-gray-500 mt-1">Built by your future 7-figure self 💼</p>
-      </footer>
+    // Import necessary libraries if required
+// Example: import React from "react";
+
+function Index() {
+  return (
+    <div>
+      <h1>Welcome to My Fitness Website</h1>
+      <p>This is your go-to platform for all things fitness!</p>
+      {/* Add additional components or content as needed */}
     </div>
   );
 }
+
+export default Index;
